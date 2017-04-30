@@ -10,3 +10,5 @@ $("body").css('background-color','navy');
 $(".highlight").css('color','yellow');
 
 $("h1").css('font-family','monospace');
+
+$("a.action-icon-bg").css('background-color','red');
