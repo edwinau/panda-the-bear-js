@@ -4,4 +4,5 @@ $("#left-image img").attr('src', 'http://lorempixel.com/g/325/225');
 
 $("span.bio-info-value.bio-info-name").text("Edwin");
 
-$("h3.info-title").text("BLAH");
+
+$("body").css('background-color','navy');
