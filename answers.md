@@ -25,4 +25,4 @@ $("#name").val("ABC");
 
 $("#submit").prop('disabled', true);
 
-$("#right-image img").clone('src', 'images/pikachu-drawing.jpg').insertAfter(".portfolio-container");
+$('.bio-info').empty()
