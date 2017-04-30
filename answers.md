@@ -18,3 +18,5 @@ $("#message").attr("placeholder","State Your Business");
 $("#name").attr("value","Your Nemesis");
 
 $("#email").attr("value","koalathebear@gmail.com");
+
+$("#submit").attr("value","En Garde!");
