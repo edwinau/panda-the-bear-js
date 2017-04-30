@@ -23,4 +23,6 @@ $("#submit").attr("value","En Garde!");
 
 $("#name").val("ABC");
 
-$("#email").val("thebear@gmail.com");
+$("#submit").prop('disabled', true);
+
+$("#right-image img").clone('src', 'images/pikachu-drawing.jpg').insertAfter(".portfolio-container");
