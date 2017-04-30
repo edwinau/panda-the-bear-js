@@ -8,3 +8,5 @@ $("span.bio-info-value.bio-info-name").text("Edwin");
 $("body").css('background-color','navy');
 
 $(".highlight").css('color','yellow');
+
+$("h1").css('font-family','monospace');
