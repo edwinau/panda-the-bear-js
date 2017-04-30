@@ -11,4 +11,4 @@ $(".highlight").css('color','yellow');
 
 $("h1").css('font-family','monospace');
 
-$("a.action-icon-bg").css('background-color','red');
+$("#name").attr("placeholder","Identify Yourself");
