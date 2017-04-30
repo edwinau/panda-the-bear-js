@@ -20,3 +20,7 @@ $("#name").attr("value","Your Nemesis");
 $("#email").attr("value","koalathebear@gmail.com");
 
 $("#submit").attr("value","En Garde!");
+
+$("#name").val("ABC");
+
+$("#email").val("thebear@gmail.com");
